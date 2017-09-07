@@ -4,7 +4,7 @@
 2. Click clone or download and copy the git link
 3. Open terminal, command line, etc.
 4. Clone your github repo by typing/pasting 
-  * git clone <clone with HTTPS link> 
+  * git clone &ltclone with HTTPS link&gt 
   * Example link: https://github.com/PittCS1520/PITTID-project0.git
 
 Note: if you get an error that says the repo is not found, at may be the case that your global config is not set. An alternative to setting your global config is to include your git username in git clone.
