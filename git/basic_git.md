@@ -8,7 +8,7 @@
   * Example link: https://github.com/PittCS1520/PITTID-project0.git
 
 Note: if you get an error that says the repo is not found, at may be the case that your global config is not set. An alternative to setting your global config is to include your git username in git clone.
-git clone https://\<GIT USERNAME\>@github.com/PittCS1501/\<USERNAME PREFIX\>-project0.git
+ * git clone https://\<GIT USERNAME\>@github.com/PittCS1501/\<USERNAME PREFIX\>-project0.git
 
 
 ## Add/Modifying Your Files
